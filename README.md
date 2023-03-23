@@ -13,10 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<h2><b>Hi!</b></h2>
+<h2><b>🐶About me</b></h2>
 <ul>
-  <li>😄My name is Shahzod Akhrarkhodjaev</li>
+  <li>😄My name is Shahzod</li>
   <li>🔭I mainly write code using C#</li>
   <li>⚡I am mainly engaged in the development of various applications of varying complexity to order</li>
   </ul>
@@ -32,8 +31,8 @@ Here are some ideas to get you started:
   </div>
  </div>
  <hr/>
-<h2><b>Language and tools:</b></h2>
-<div>
+<h2><b>🔧Language and tools:</b></h2>
+<div class="languages">
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core" alt=".NET Core" width="40" height="40"/>&nbsp;
@@ -48,3 +47,12 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" **alt="Ubuntu" width="40" height="40"/>
 </div>
+<br/>
+<h2><b>👊My Stats:</b></h2>
+<div class="stats">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Shoukox&amp;theme=gruvbox&amp;border_radius=5&amp;background=FFFFFF" alt="GitHub Streak"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shoukox&langs_count=10&layout=compact" alt="Top Langs"></a> <br/>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=Shoukox&amp;show_icons=true&amp;theme=transparent" alt="Shoukox's GitHub stats"></p>
+
+</div>
+
