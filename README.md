@@ -48,7 +48,6 @@ Here are some ideas to get you started:
 <br/>
 <h2><b>👊My Stats:</b></h2>
 <div class="stats">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Shoukox&amp;theme=gruvbox&amp;border_radius=5&amp;background=FFFFFF" alt="GitHub Streak"></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shoukox&langs_count=10&layout=compact" alt="Top Langs"></a> <br/>
   <!--<p><img src="https://github-readme-stats.vercel.app/api?username=Shoukox&amp;show_icons=true&amp;theme=transparent" alt="Shoukox's GitHub stats"></p>-->
 
